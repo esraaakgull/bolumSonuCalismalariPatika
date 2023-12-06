@@ -1,0 +1,21 @@
+ul, ol, p, span {
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: blue;
+}
+
+.eiffel {
+    width: 400px;
+    padding-bottom: 10px;
+}
+
+.paris-eiffel-text {
+    display: inline-block;
+}
