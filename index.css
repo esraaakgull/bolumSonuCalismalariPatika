@@ -1,0 +1,33 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    font-size: 18px;
+}
+
+.searchArea {
+    font-size: 20px;
+    background-color: #EEEEEE;
+    height: 90px;
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.linkArea {
+    padding: 5px;
+    width: 90%;
+    height: 100px;
+    display: flex;
+}
+
+.link {
+    border-right: 1px solid white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
