@@ -20,7 +20,7 @@
 .linkArea {
     padding: 5px;
     width: 90%;
-    height: 100px;
+    height: 110px;
     display: flex;
 }
 
@@ -31,3 +31,58 @@
     display: flex;
     flex-direction: column;
 }
+
+.google-logo {
+    width: 450px;
+    height: 140px;
+}
+
+.search-input {
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 15px;
+    width: 400px;
+}
+
+.google-search-btn,
+.lucky-btn {
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.linkArea {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.special-search {
+    flex: 2;
+    background-color: #7EE5DA;
+}
+
+.help-links {
+    display: flex;
+    flex: 1;
+    background-color: #70CCC2;
+    font-size: 16px;
+}
+
+.subscribe {
+    display: flex;
+    flex: 3;
+    background-color: #62B3AA;
+    font-size: 18px;
+}
+.subscribe-input {
+    padding: 5px;
+    width: 200px;
+    font-size: 18px;
+}
+.subscribe-btn{
+    width: 100px;
+    padding: 4px;
+    font-size: 16px;
+}
+
